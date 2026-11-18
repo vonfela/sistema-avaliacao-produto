@@ -5,7 +5,7 @@ This is my first complete project result of postgraduation about AI Engineering 
 
 A platform where on the homepage you will see a list of products using N8N automation to do API injection from Amazon of the products with infinite scrolling, you can evaluate products when logged in/authenticated and there will be an IA integration using Mastra AI agents/sub-agents which will resume all reviews to give and optimized AI review.
 
-Local project, this was not published public because I do not own an Vercel paid plan to host all my projects.
+Local project, this was not published public with a domain at Vercel because I do not own an Vercel paid plan to host all my projects.
 
 ## Getting Started:
 
